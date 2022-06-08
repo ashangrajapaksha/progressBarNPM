@@ -1,0 +1,27 @@
+{
+  "name": "progress-bar-npm-rev",
+  "version": "1.0.0",
+  "description": "first-module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashangrajapaksha/progressBarNPM.git"
+  },
+  "keywords": [
+    "progress-bar"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashangrajapaksha/progressBarNPM/issues"
+  },
+  "homepage": "https://github.com/ashangrajapaksha/progressBarNPM#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {}
+}
